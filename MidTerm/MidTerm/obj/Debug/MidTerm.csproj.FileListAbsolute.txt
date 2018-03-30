@@ -1,0 +1,6 @@
+J:\Users\CIS\Desktop\MidTerm\MidTerm\bin\Debug\MidTerm.exe.config
+J:\Users\CIS\Desktop\MidTerm\MidTerm\bin\Debug\MidTerm.exe
+J:\Users\CIS\Desktop\MidTerm\MidTerm\bin\Debug\MidTerm.pdb
+J:\Users\CIS\Desktop\MidTerm\MidTerm\obj\Debug\MidTerm.csprojResolveAssemblyReference.cache
+J:\Users\CIS\Desktop\MidTerm\MidTerm\obj\Debug\MidTerm.exe
+J:\Users\CIS\Desktop\MidTerm\MidTerm\obj\Debug\MidTerm.pdb

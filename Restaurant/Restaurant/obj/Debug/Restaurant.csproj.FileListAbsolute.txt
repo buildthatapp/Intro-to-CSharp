@@ -1,0 +1,8 @@
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\louis_magdaleno\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.pdb

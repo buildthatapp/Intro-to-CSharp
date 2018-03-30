@@ -1,0 +1,9 @@
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe.config
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.exe
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\bin\Debug\PayrollGUI.pdb
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Form1.resources
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.Properties.Resources.resources
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.csproj.GenerateResource.Cache
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.exe
+C:\Users\louis_magdaleno\Desktop\PayrollGUI\PayrollGUI\obj\Debug\PayrollGUI.pdb
