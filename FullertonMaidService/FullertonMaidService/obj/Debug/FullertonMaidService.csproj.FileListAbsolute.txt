@@ -1,0 +1,8 @@
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\bin\Debug\FullertonMaidService.exe.config
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\bin\Debug\FullertonMaidService.exe
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\bin\Debug\FullertonMaidService.pdb
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\obj\Debug\FullertonMaidService.Form1.resources
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\obj\Debug\FullertonMaidService.Properties.Resources.resources
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\obj\Debug\FullertonMaidService.csproj.GenerateResource.Cache
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\obj\Debug\FullertonMaidService.exe
+j:\users\cis\documents\visual studio 2015\Projects\FullertonMaidService\FullertonMaidService\obj\Debug\FullertonMaidService.pdb

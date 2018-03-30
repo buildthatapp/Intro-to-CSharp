@@ -1,0 +1,9 @@
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\bin\Debug\MagdalenoCalculator.exe.config
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\bin\Debug\MagdalenoCalculator.exe
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\bin\Debug\MagdalenoCalculator.pdb
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.Form1.resources
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.Properties.Resources.resources
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.csproj.GenerateResource.Cache
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.exe
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.pdb
+C:\Users\louis_magdaleno\Desktop\MagdalenoCalculator\MagdalenoCalculator\obj\Debug\MagdalenoCalculator.csprojResolveAssemblyReference.cache
