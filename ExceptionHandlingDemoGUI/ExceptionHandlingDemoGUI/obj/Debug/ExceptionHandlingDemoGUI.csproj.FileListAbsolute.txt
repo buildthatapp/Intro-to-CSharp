@@ -1,0 +1,9 @@
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\bin\Debug\ExceptionHandlingDemoGUI.exe.config
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\bin\Debug\ExceptionHandlingDemoGUI.exe
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\bin\Debug\ExceptionHandlingDemoGUI.pdb
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.csprojResolveAssemblyReference.cache
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.ExceptionHandlingDemoGUI.resources
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.Properties.Resources.resources
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.csproj.GenerateResource.Cache
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.exe
+C:\Users\louis_magdaleno\Desktop\ExceptionHandlingDemoGUI\ExceptionHandlingDemoGUI\obj\Debug\ExceptionHandlingDemoGUI.pdb

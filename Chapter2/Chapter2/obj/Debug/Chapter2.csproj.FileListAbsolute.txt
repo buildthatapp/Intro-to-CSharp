@@ -1,0 +1,5 @@
+C:\Users\louis_magdaleno\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.exe.config
+C:\Users\louis_magdaleno\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.exe
+C:\Users\louis_magdaleno\Desktop\Chapter2\Chapter2\bin\Debug\Chapter2.pdb
+C:\Users\louis_magdaleno\Desktop\Chapter2\Chapter2\obj\Debug\Chapter2.exe
+C:\Users\louis_magdaleno\Desktop\Chapter2\Chapter2\obj\Debug\Chapter2.pdb
